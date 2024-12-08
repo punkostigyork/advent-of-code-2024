@@ -22,6 +22,5 @@ def count_safe(file_path):
 
 #-----------PART 2 SOLUTION------------
 
-file_path = "input.txt"
-result = count_safe(file_path)
+result = count_safe('input.txt')
 print(result)
